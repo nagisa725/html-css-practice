@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body { 
+    color: gray;
+    background: black;
+  }
+
+  div{
+    color:yellow;
+  }
+  #headline{
+    color:orange;
+  }
+  .main{
+    background:pink;
+  }
+  .neko1{
+    color: red;
+  }
+  .test{
+    color: green;
+  }
+ .test1{
+  color: blue;
+ }
+ .test2{
+  color: lightsalmon;
+ }
+
+
