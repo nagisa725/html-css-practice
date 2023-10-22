@@ -1,24 +1,30 @@
 @charset "UTF-8";
 
+    .flex {
+        display: flex;
+    }
     .kiiro{
         width:600px;
-        height: 100px;
-        background:#f4d508
+        height:100px;
+        background:#f4d508;
     }
     .ao{
-        width:600px;
-        height: 480px;
-        background:#2935a8
+        display: inline-block;
+        width:180px;
+        height:480px;
+        background:#2935a8;
     }
     .midori{
+        display: inline-block;
         width:420px;
-        height: 480px;
-        background:#14865f
+        height:480px;
+        background:#14865f;
+    }
+    .test {
+        display: fle;
     }
     .aka{
         width:600px;
-        height: 180px;
-        background:#ca1019
+        height:180px;
+        background:#ca1019;
     }
- 
-    
