@@ -1,0 +1,45 @@
+@charset "UTF-8";
+    .aka{
+        width:  600px;
+        height: 120px;
+        background:#ca1019
+    }
+
+    .ao{
+        width:  180px;
+        height: 540px;
+        background:#2935a8
+    }
+
+    .yamabuki{
+        width:  280px;
+        height: 250px;
+        background:#ebaa1f
+    }
+
+    .midori{
+        width:  280px;
+        height: 140px;
+        background:#14865f
+    }
+
+    .mizuiro{
+        width:  140px;
+        height: 390px;
+        background:#33b0bf
+    }
+
+    .pink{
+        width:  420px;
+        height: 150px;
+        background:#c81b54
+    }
+
+    .kiiro{
+        width:  600px;
+        height: 100px;
+        background:#f4d508
+    }
+    .flex {
+        display: flex;
+    }
