@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.aka{
+    width:  600px;
+    height: 180px;
+    background:#ca1019
+}
+.aka ul{  
+    list-style-type: none; 
+    text-align:center
+}
+
+.aka ul li { 
+  display: inline-block;
+  width: 110px;
+  height: 80px;
+  border: 10px solid white;
+  padding: 0px;
+  margin-top: 45px ; 
+  margin-bottom: 45px;
+  margin-right: px;
+  vertical-align: middle;
+  background:#f4c538;
+}
+
