@@ -4,20 +4,23 @@
     height: 180px;
     background:#ca1019
 }
-.flex{
+.flex-aaa {
+    position: relative;
+}
+.flex-box{
     display: flex;
-    flex-wrap: wrap;
-    gap: 0px;
-  }
-  
+    position: absolute;
+    gap: 10px;
+    padding: 10px;
+    margin-top: 45px;
+    margin-right: 50px;
+    margin-left: 100px;
+    background-color: white;
+}
 .box{
     width: 100px;
     height: 70px;
     background-color: #f4c538;
-    border: 10px solid white;
-    margin-top: 45px;
-    margin-bottom: 45px;
-    margin-right: px;
 }
 #midori{
     width: 420px;
@@ -40,7 +43,9 @@
     border: 2px solid #fff;
 
 }
-
+.flex-bbb{
+    display: flex;
+}
 .ao{
     width: 180px;
     height: 480px;

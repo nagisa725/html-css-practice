@@ -4,21 +4,29 @@
     height: 180px;
     background:#ca1019
 }
-.flex{
+.flex-wrapper{
+    margin-top: 45px;
+    margin-left: 50px;
+  }
+
+  .flex-box{
     display: flex;
-    flex-wrap: wrap;
-    gap: 0px;
+    gap:10px;
+    background-color: white;
+  }
+
+  .flex{
+    display: flex;
+    gap:10px;
+    background-color: white;
   }
   
 .box{
     width: 100px;
     height: 70px;
     background-color: #f4c538;
-    border: 10px solid white;
-    margin-top: 45px;
-    margin-bottom: 45px;
-    margin-right: px;
 }
+
 #midori{
     width: 420px;
     height: 480px;
